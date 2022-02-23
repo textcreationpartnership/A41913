@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Hertford-Shire. Being a particular account of a late engagement between a new gang of highway-men; and several of the country people, near Barnet: with a true relation of the killing three of the countrymen, and several horses; and of their committing two great robberies near Hertford. As also, of the countries pursuing them, and the manner of the rogues escape that day. Likewise the taking one of them since, that is supposed to be the chief, and of his commitment to goal. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41913</idno>
+            <idno type="STC">Wing G1722AA</idno>
+            <idno type="STC">ESTC R218498</idno>
+            <idno type="EEBO-CITATION">99830084</idno>
+            <idno type="PROQUEST">99830084</idno>
+            <idno type="VID">34533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34533)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1778:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Hertford-Shire. Being a particular account of a late engagement between a new gang of highway-men; and several of the country people, near Barnet: with a true relation of the killing three of the countrymen, and several horses; and of their committing two great robberies near Hertford. As also, of the countries pursuing them, and the manner of the rogues escape that day. Likewise the taking one of them since, that is supposed to be the chief, and of his commitment to goal. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ed. Golding, in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Outlaws --  England --  Early works to 1800.</term>
+               <term>Hertfordshire --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:34533:1" rendition="simple:additions"/>
+            <head>GREAT NEWS From Hertford-Shire. Being a particular Account of a Late ENGAGEMENT Between A <hi>New Gang of Highway-Men,</hi> And ſeveral of The Country People, near Barnet: WITH A True Relation of the Killing Three of the Countrymen, and ſeveral Horſes; and of their Committing two great Robberies near <hi>Hertford.</hi> As alſo, of the Countries Purſuing them, and the manner of the Rogues eſcape that Day. Likewiſe the Taking one of them ſince, that is ſuppoſed to be the Chief, and of his Commit<g ref="char:EOLhyphen"/>ment to Goal.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed according to Order.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>HErtford-Shire</hi> and the adjacent Counties, having for ſome time paſt been In<g ref="char:EOLhyphen"/>feſted with the Robberies of ſeveral New Highway-Men, on <hi>Saturday</hi> the 14 Inſtant, being Marker-Day at <hi>Hertford,</hi> about the Hours of Six and Seven in the Morning of the ſaid Day, four of this Gang, all well Mounted and Arm'd, ſet upon three Men that were going to <hi>Hertford</hi> Market, in a Lane cal<g ref="char:EOLhyphen"/>led <hi>London-Lane,</hi> being the direct Road to the Town; from theſe People they took away about the Value of Twenty Pounds in Money, <hi>&amp;c.</hi> Within an hour after this, they had the Impudence to ſet upon two other Country-Men in a narrow Lane that leads between <hi>Cheſſon</hi> and <hi>North-hall</hi> Common, juſt by a ſmall Cottage Houſe: while they were rifling one of the Country-men, the other quitted his Horſe, and made to the Cottage, where he convey'd 6 <hi>l.</hi> of the Money he had with him, leaving himſelf only 40 <hi>s.</hi> the Rogues ſoon entered the Houſe after him; and, after they had taken
+<pb n="2" facs="tcp:34533:2" rendition="simple:additions"/>taken the 40 <hi>s.</hi> they miſerably beat and abuſed the Country-man for running away, they took away from the former of them, the value of 10 <hi>l.</hi> in Money; then they run both the Country-mens Horſes through, to prevent their being Purſued, and made the beſt of their way over <hi>North-hall</hi> Common, towards St. <hi>Alban</hi>'s; but, by this time, the Perſons that they firſt Robb'd, had raiſed the Country, and were in Pur<g ref="char:EOLhyphen"/>ſuit of them; and, in a Lane between Sir <hi>Thomas Pope Blunt</hi>'s and <hi>Barnet,</hi> the Coun<g ref="char:EOLhyphen"/>trymen got up with the Robbers; at which time, the latter made a ſtand (their Hor<g ref="char:EOLhyphen"/>ſes being ſatiegu'd) and placing themſelves in a breaſt, they pulled out about Seven pair of Pocket-Piſtols each, and ſtuck them round their broad Waſte-Belts, putting one in each Hand, and then bid the Country defiance, declaring they would never yield as long as their Powder and Bullet laſted, and that they would live and dye by each other; which Reſolutions ſo ſtartled the Country-men (notwithſtand<g ref="char:EOLhyphen"/>ing they were much ſuperior in number) that they retired into a Farmers-yard near adjacent, from which place the Rogues dar'd them out, and, ſoon after, made into the Yard after them; which the Country-men perceiving, all that were on Foot run into the Houſe, and others quitted their Horſes and left them, only Four or Five bravely ſtood it, and oppoſed them; among which were Sir <hi>Thomas Pope Blunt</hi>'s <hi>Cook,</hi> and a Farmer, Two as Stout Men as any in the Country, but both of them were ſoon Killed: The Robbers received the Cooks firſt Fire, from which one of them (as he ſaid) was ſhot in the Legg, and then one of the Rogues ride up cloſe to him, and ſhot him Dead, they had ſhot ſeveral times at the Farmer and miſt him, during which time he had knockt one of them from his Horſe, but another of them ſoon came to his Aſſiſtance, and ſhot the Farmer Dead, by a wound in the Head, the other three made into the Houſe as ſoon as they ſaw the Cook drop, after this the High-way Men ſtay'd near half an hour, changing two of their Horſes, for two of the Country Mens that they liked better, changing the Saddles and Bridles, <hi>&amp;c.</hi>
+            </p>
+            <p>After which they ſhot and ſtabb'd ſix of the Countrey-Mens Horſes, and their own two they left in the Yard, to prevent being further purſued, and ſo marched off taking their way a croſs the Country, towards <hi>
+                  <g ref="char:V">Ʋ</g>xbridge</hi> and <hi>Harrow</hi> on the Hill, but the Country about being more Allarm'd, and freſh Horſes coming in; they were ſtill pur<g ref="char:EOLhyphen"/>ſued, one of the purſuers being better mounted then the reſt, and over-riding his com<g ref="char:EOLhyphen"/>panions, the Rogue took the advantage, and in a Lane leading to <hi>Wale</hi> common, ſhot him dead; They paſs'd within two Miles of <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> where was Quarter'd a Troop of Horſe, that were going for <hi>Flanders,</hi> who took the Allarm and were ready mounted, the Officers offering the Town, that if they would engage to make good, whatever Horſes ſhould happen to be either kill'd or ſpoil'd, the Troop ſhould diſperſe themſelves in parties, and purſue the High-way Men, but the Town refuſed: From near <hi>Harrow</hi> they walked their Horſes a Foot pace, defying the Countrey-Men all along as they went, and ſo over one of the <hi>Hounſlow-Heaths,</hi> near which place they met a Gentleman very well mounted, whoſe Horſe they took away and left their own, which they ran through; Night coming on, they took the advantage of it, and got clear away, Riding through <hi>Kingſtone</hi> Town, and ſo in <hi>Surry;</hi> and ſince by all the Intelligence Major <hi>Richardſon</hi> can get, they made the beſt of their way towards <hi>Weſt Cheſter,</hi> and ſo for <hi>Ireland;</hi> the ſaid Major uſeing all dilligence imaginable to take them, having ſent to moſt parts of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Since this Robbery, one <hi>Witnal</hi> a Butcher whoſe Wife kept an <hi>Inn</hi> in that Country, and a Noted High-way-Man, has been taken and ſecured in <hi>Northampton</hi> Goal, who is generally thought to be one of the Four concerned in the Robbery aboveſaid, upon which Major <hi>Richardſon</hi> ſent two perſons from <hi>Newgate</hi> to view him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ed. Golding,</hi> in the <hi>Old Baily,</hi> 1691:</p>
+         </div>
+      </back>
+   </text>
+</TEI>
